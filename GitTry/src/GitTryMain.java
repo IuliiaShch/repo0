@@ -11,6 +11,7 @@ public class GitTryMain {
 	public GitTryMain(int amount) {
 		// TODO Auto-generated constructor stub
 		this.amount=amount;
+		System.out.println("Assbutt");
 	}
 
 }
